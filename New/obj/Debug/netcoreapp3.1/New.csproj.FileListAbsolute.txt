@@ -1,0 +1,4 @@
+C:\Users\admin\Desktop\Terminalcommands\csharp\practice\New\obj\Debug\netcoreapp3.1\New.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Terminalcommands\csharp\practice\New\obj\Debug\netcoreapp3.1\New.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\csharp\practice\New\obj\Debug\netcoreapp3.1\New.AssemblyInfo.cs
+C:\Users\admin\Desktop\Terminalcommands\csharp\practice\New\obj\Debug\netcoreapp3.1\New.csproj.CoreCompileInputs.cache
